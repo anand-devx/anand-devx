@@ -8,7 +8,7 @@
 ## 📊 GitHub Stats
 
 <!-- here -->
-```
+
 [![Anand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anand11206&show_icons=true&theme=default)](https://github.com/anand11206)
 
 <!-- here -->
@@ -16,14 +16,14 @@
 
 <!-- here -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anand11206&layout=compact)](https://github.com/anand11206)
-```
+
 ---
 
 ## 📈 Activity Graph
-```
+
 <!-- here -->
 [![Anand’s github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=anand11206&theme=default)](https://github.com/ashutosh00710/github-readme-activity-graph)
-```
+
 ---
 
 ## 📬 Contact Me
