@@ -8,28 +8,28 @@
 
 ## 📊 GitHub Stats
 
-[![Anand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anand11206&show_icons=true&theme=github)](https://github.com/anand11206)
+[![Anand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anand11206&show_icons=true&theme=github_dark)](https://github.com/anand11206)
 
 ---
 
 ## 🔥 GitHub Streak
 
 <!-- here -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=anand11206&theme=github)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=anand11206&theme=github_dark)](https://git.io/streak-stats)
 
 ---
 
 ## 🧠 Most Used Languages
 
 <!-- here -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anand11206&layout=compact&theme=github)](https://github.com/anand11206)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anand11206&layout=compact&theme=github_dark)](https://github.com/anand11206)
 
 ---
 
 ## 📈 Activity Graph
 
 <!-- here -->
-[![Anand's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anand11206&theme=github)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Anand's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anand11206&theme=github_dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
 ---
