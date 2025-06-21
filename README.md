@@ -9,20 +9,21 @@
 
 <!-- here -->
 
-[![Anand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anand11206&show_icons=true&theme=default)](https://github.com/anand11206)
+[![Anand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anand11206&show_icons=true&theme=github)](https://github.com/anand11206)
 
 <!-- here -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=anand11206&theme=default)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=anand11206&theme=github)](https://git.io/streak-stats)
 
 <!-- here -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anand11206&layout=compact)](https://github.com/anand11206)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anand11206&layout=compact&theme=github)](https://github.com/anand11206)
 
 ---
 
 ## 📈 Activity Graph
 
 <!-- here -->
-[![Anand’s github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=anand11206&theme=default)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anand's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anand11206&theme=github)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
