@@ -15,7 +15,7 @@
 ## 🔥 GitHub Streak
 
 <!-- here -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=anand11206&theme=github_dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=anand11206&theme=dark)](https://git.io/streak-stats)
 
 ---
 
@@ -29,7 +29,7 @@
 ## 📈 Activity Graph
 
 <!-- here -->
-[![Anand's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anand11206&theme=github_dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![Anand's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anand11206&theme=github)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
 ---
