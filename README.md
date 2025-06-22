@@ -36,6 +36,6 @@
 
 ## 📬 Contact Me
 
-- 📧 Email: `anand@example.com`
+- 📧 Email: `anandyadav11206@gmail.com`
 - 💼 [LinkedIn](https://linkedin.com/in/anand-yadav-506a5b354/)
 - 🌐 [Portfolio](#)
