@@ -2,7 +2,7 @@
 - 💻 B.Tech CSE student at NSUT
 - 🔧 Skilled in Web Dev
 - 🌱 Currently learning C++, Python, and DSA
-- 🛠️ Projects: [Todo App with Local Storage](https://to-do-context.netlify.app/) | [Currency Converter](https://convrt-currency.netlify.app/) | [Password Generator](https://generate-passwrd.netlify.app/) | [Youtube Backend](https://github.com/anand-devx/Youtube-backend)
+- 🛠️ Projects: [Posture Guard]([https://to-do-context.netlify.app/](https://posture-guard.vercel.app/)) | [Currency Converter](https://convrt-currency.netlify.app/) | [Password Generator](https://generate-passwrd.netlify.app/) | [Youtube Backend](https://github.com/anand-devx/Youtube-backend)
 - 📫 Reach me at: anandyadav11206@gmail.com | [LinkedIn](https://www.linkedin.com/in/anand-yadav-506a5b354/)
 
 ---
